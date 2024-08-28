@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react workflows**
 
-- 👨‍💻 All of my projects are available at [https://its-selim-portfolio.vercel.app/](https://its-selim-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://selim-dev-porfolio.vercel.app/](https://selim-dev-porfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript && MERN**
 
