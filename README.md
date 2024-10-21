@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1ARCWeeG39R99ThNDiDbgm4z1GtSqjSph/view](https://drive.google.com/file/d/1ARCWeeG39R99ThNDiDbgm4z1GtSqjSph/view)]
 
-- ⚡ Fun fact **feel crazy when get error for a stupid mistake :-)**
+- ⚡ Fun fact **feel crazy when get error for a stupid mistake :-)**        
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
