@@ -6,14 +6,14 @@
 
 - 🌱 I’m currently learning **react workflows**
 
-- 👨‍💻 All of my projects are available at [https://selim-dev-porfolio.vercel.app/](https://selim-dev-porfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sselim.netlify.app/](https://sselim.netlify.app/)
 
 - 💬 Ask me about **JavaScript && MERN**
 
 - 📫 How to reach me **selim.nill1@gmail.com
 **
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1ARCWeeG39R99ThNDiDbgm4z1GtSqjSph/view](https://drive.google.com/file/d/1ARCWeeG39R99ThNDiDbgm4z1GtSqjSph/view)]
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1RtIEfv69Sf4KPbHYnJNPJFpeyjAL9jWw/view?usp=sharing](https://drive.google.com/file/d/1RtIEfv69Sf4KPbHYnJNPJFpeyjAL9jWw/view?usp=sharing)]
 
 - ⚡ Fun fact **feel crazy when get error for a stupid mistake :-)**        
 
