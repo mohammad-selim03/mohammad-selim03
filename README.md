@@ -46,7 +46,7 @@
 
  <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>   
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a target="_blank" href="https://twitter.com/its_mr_nill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_mr_nill" height="30" width="40" /></a>
 <a target="_blank" href="http://linkedin.com/in/mohammad-selim-3920a3362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-selim333/" height="30" width="40" /></a>
