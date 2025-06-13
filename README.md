@@ -7,10 +7,10 @@
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>     
+<h2 align="center">⚡ Stats ⚡</h2>
 <br> 
 <p align=center> 
-  <div align=center> 
+  <div align=center>
     <a target="_blank" href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=mohammad-selim03&theme=react&border=61dafb&hide_border=true" alt="mohammad-selim03" /> 
     </a>
