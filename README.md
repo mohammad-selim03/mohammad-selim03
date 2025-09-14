@@ -62,10 +62,10 @@
 </p>
 <br />
 <br />
-### 🚀 Tech Stack
+### 🚀 Tech Stack 
   
 ---
-
+  
 #### 🧩 Frontend
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"/>
