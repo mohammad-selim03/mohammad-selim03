@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=%20A%20Passionate%20frontend%20Enthusiast%20;Build%20experiences;Turning%20coding%20ideas%20into%20sleek;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=45&color=61DAFB&vCenter=true&pause=1000&size=22" /></a>
 </p> 
  
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2> 
 
 <br>
   
