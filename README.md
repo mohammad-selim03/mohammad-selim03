@@ -5,7 +5,7 @@ Hi there
 
 <h1>
   
-<a href="https://github.com/selim-codespace" target="_blank">My original github profile</a>
+<a href="https://github.com/selim-codespace" target="_blank">original github profile</a>
 </h1>
 
 
