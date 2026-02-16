@@ -2,7 +2,7 @@
 Hi there
 
 
-<h1>Click for see latest <a href="http://github.com/selim-codespace"><u>GITHUB</u></a></h1>
+<h1>Click here to see my professional <a href="http://github.com/selim-codespace" target="_blank"><u>GITHUB</u></a></h1>
 
 </h1>
 
